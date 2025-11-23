@@ -1,7 +1,7 @@
 {
     "default_image_path": "images/test_image2.png",
     "drawing_speed": 0.0,
-    "stop_key": "q",
+    "stop_key": "x",
     "pause_key": "space",
     "ui_confidence": 0.8,
     "draw_button_y_offset": 75,
